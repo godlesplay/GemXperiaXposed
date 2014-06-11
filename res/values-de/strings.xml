@@ -4,7 +4,7 @@
     <!-- !!!!! don't translate _default strings !!!!! -->
 
     <!-- Xperia Home -->
-    <string name="app_tray_drawer_list_item_categories_hidden">Versteckt</string>
+    <string name="app_tray_drawer_list_item_categories_hidden">Verborgen</string>
     <string name="app_tray_drawer_list_item_categories_settings">Einstellungen</string>
     
     <!-- Color Picker -->
